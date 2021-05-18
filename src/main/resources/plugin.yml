@@ -1,0 +1,12 @@
+name: bv-Whitelist
+version: ${project.version}
+main: pl.barthvisuals.whitelist.Main
+api-version: 1.16
+prefix: bv-Whitelist
+load: POSTWORLD
+author: BarthVisuals
+website: https://BarthVisuals.pl
+
+commands:
+  whitelist:
+    aliases: [ "wl" ]

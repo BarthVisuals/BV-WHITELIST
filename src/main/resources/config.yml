@@ -12,7 +12,7 @@ db_password: "123" #hasło do bazy danych
 ## {ADMIN}
 ## {PLAYER}
 
-wl-kick-message: "&8» &eBV&8-&fWHITELIST &8«\n\n&c✖ &7Mam problem ze wzrokiem lub nie ma cię na whiteliście (⌐■_■) &c✖\n\n&cW sprawach biznesowych napisz na discordzie:\n&8– &7barthvisuals#7981\n&8– &7nolemretaW#2137"
+wl-kick-message: "&8» &eBV&8-&fWHITELIST &8«\n\n&c✖ &7Mam problem ze wzrokiem lub nie ma cię na whiteliście (⌐■_■) &c✖\n\n&cProblem z pluginem? Napisz:\n&8– &7barthvisuals#7981"
 wl-command-error: "&cNie ma takiej komendy!"
 wl-command-add: "&aDodano gracza: {PLAYER} do whitelisty!"
 wl-command-remove: "&cUsunięto gracza {PLAYER} z whitelisty!"
